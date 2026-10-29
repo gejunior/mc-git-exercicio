@@ -1,3 +1,4 @@
 Sistema Acadêmico IF
 Versão: 2.0-oficial
 Módulo: Inicial
+Participantes: pedrin, junin, ismael.
